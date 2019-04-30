@@ -1,5 +1,5 @@
 PODS:
-  - BetterSegmentedControl (1.0.2)
+  - BetterSegmentedControl (1.1)
   - iOSSnapshotTestCase (5.0.2):
     - iOSSnapshotTestCase/SwiftSupport (= 5.0.2)
   - iOSSnapshotTestCase/Core (5.0.2)
@@ -31,7 +31,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BetterSegmentedControl: 46dab79e34e9e4cd36447540f67a5b52779ad2fe
+  BetterSegmentedControl: b62c73ea1600148d9fd268ce03ed5cd19f546ec0
   iOSSnapshotTestCase: 2d51aa06775e95cecb0a1fb9c5c159ccd1dd4596
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
   Nimble-Snapshots: bbd1ab264bacc24a9ce24a8363bc05aac783aeb0
